@@ -1,0 +1,20 @@
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\bin\Debug\Assembly.exe.config
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\bin\Debug\Assembly.exe
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\bin\Debug\Assembly.pdb
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\obj\Debug\Assembly.csprojAssemblyReference.cache
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\obj\Debug\Assembly.csproj.GenerateResource.cache
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\obj\Debug\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\obj\Debug\Assembly.exe
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\obj\Debug\Assembly.pdb
+C:\Users\Jonah Liu\Desktop\Assembly\Assembly\Assembly\obj\Debug\WindowsFormsApp1.Assembly.resources
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\bin\Debug\Assembly.exe.config
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\bin\Debug\Assembly.exe
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\bin\Debug\Assembly.pdb
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\obj\Debug\Assembly.csprojAssemblyReference.cache
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\obj\Debug\WindowsFormsApp1.Assembly.resources
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\obj\Debug\Assembly.csproj.GenerateResource.cache
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\obj\Debug\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\obj\Debug\Assembly.exe
+C:\Users\Jonah Liu\Desktop\Home\Programming\Visual Basic\Programs\Assembly\Assembly\Assembly\obj\Debug\Assembly.pdb
